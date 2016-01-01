@@ -11,7 +11,7 @@ var CircleImage = React.createClass({
           <Label>がぞう</Label>
         </div>
         <div>
-          <Image src="../img/image.jpg" responsive />
+          <Image src="../../img/image.jpg" responsive />
         </div>
       </div>
     );

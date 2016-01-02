@@ -27,14 +27,14 @@ var Alert = require('react-bootstrap').Alert;
 4.使う際にMAIL ERRORが出た場合は
 
 ```
-ulimit -n 512
+ulimit -n 1024
 ```
 とかで一時的にしのげる。
 永久的にする場合は、この辺りを参考にする。
 
  - http://qiita.com/castor4bit/items/8d8b245e0698cc38f2a0
 
- - http://d.hatena.ne.jp/NeoCat/20070218/1180896910
+ - http://qiita.com/laiso/items/c16b178fd61e4ad8ec3e
 
 ###参考サイト
 
